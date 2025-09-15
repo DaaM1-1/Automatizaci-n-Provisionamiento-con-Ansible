@@ -13,4 +13,6 @@ Ubuntu Server 22.04
 
 VirtualBox/Vagrant 
 
+Password VM: 1234
+
 
